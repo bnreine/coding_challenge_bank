@@ -1,0 +1,23 @@
+{
+  "name": "coding_challenge_bank",
+  "version": "1.0.0",
+  "description": "bank coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "set NODE_ENV=test&& jasmine",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnreine/coding_challenge_bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnreine/coding_challenge_bank/issues"
+  },
+  "homepage": "https://github.com/bnreine/coding_challenge_bank#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
